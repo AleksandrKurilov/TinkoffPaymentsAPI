@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TinkoffPayments", "TinkoffPayments.csproj", "{A494823C-58E6-43DB-A726-C62D9FDC8389}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TinkoffPaymentsTests", "..\TinkoffPaymentsTests\TinkoffPaymentsTests.csproj", "{A8F0F454-8983-4B97-B5E8-81832E253412}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A494823C-58E6-43DB-A726-C62D9FDC8389}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A494823C-58E6-43DB-A726-C62D9FDC8389}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A494823C-58E6-43DB-A726-C62D9FDC8389}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A494823C-58E6-43DB-A726-C62D9FDC8389}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8F0F454-8983-4B97-B5E8-81832E253412}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8F0F454-8983-4B97-B5E8-81832E253412}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8F0F454-8983-4B97-B5E8-81832E253412}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8F0F454-8983-4B97-B5E8-81832E253412}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F488960-06B6-4CF9-B3C3-049A7B80B8AC}
+	EndGlobalSection
+EndGlobal
